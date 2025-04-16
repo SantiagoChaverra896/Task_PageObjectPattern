@@ -1,17 +1,4 @@
-﻿# using System;
-# using System.Collections.Generic;
-# using System.Linq;
-# using System.Text;
-# using System.Threading.Tasks;
-
-# namespace Task_TestAutomationFramework.github.workflows
-# {
-#     class run_tests
-#     {
-#     }
-# }
-
-name: .NET POM CI Pipeline
+﻿name: .NET POM CI Pipeline
 
 on:  
   schedule:
